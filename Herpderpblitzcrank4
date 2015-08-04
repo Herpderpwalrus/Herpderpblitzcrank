@@ -196,7 +196,7 @@ function OnLoad()
     local ToUpdate = {}
     ToUpdate.Version = 1
     ToUpdate.UseHttps = true
-    ToUpdate.Host = "raw.githubusercontent.com"
+    ToUpdate.Host = "https://raw.githubusercontent.com/Herpderpwalrus/Herpderpblitzcrank/master/Herpderpblitzcrank4"
     ToUpdate.VersionPath = "/Superx321/BoL/master/common/SxOrbWalk.Version"
     ToUpdate.ScriptPath =  "/Superx321/BoL/master/common/SxOrbWalk.lua"
     ToUpdate.SavePath = LIB_PATH.."/SxOrbWalk_Test.lua"
